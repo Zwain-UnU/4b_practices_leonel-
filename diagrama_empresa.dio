@@ -1,0 +1,66 @@
+<mxfile host="65bd71144e">
+    <diagram id="w-h4k2OPDNxE2umjuV3I" name="Page-1">
+        <mxGraphModel dx="1009" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inicio&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="275" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FIn" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conseguir un Cliente o usuario interesado en un desarollo" vertex="1">
+                    <mxGeometry height="60" width="230" x="220" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Establecer contacto con el cliente para saber lo que ocupa,&amp;nbsp; aconsejarlo, y decirle la propuesta final de desarollo incluyendo precios" vertex="1">
+                    <mxGeometry height="60" width="260" x="205" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="El cliente acepto la propuesta?" vertex="1">
+                    <mxGeometry height="80" width="170" x="250" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="No acepto no hay desarollo :C" vertex="1">
+                    <mxGeometry height="80" width="120" x="590" y="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-7" edge="1" parent="1" source="fy6NozBCEAWpaL6btzIr-5" style="curved=1;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="fy6NozBCEAWpaL6btzIr-6" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="450" y="340"/>
+                            <mxPoint x="400" y="290"/>
+                        </Array>
+                        <mxPoint x="400" y="340" as="sourcePoint"/>
+                        <mxPoint x="450" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-8" edge="1" parent="1" source="fy6NozBCEAWpaL6btzIr-6" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="fy6NozBCEAWpaL6btzIr-2" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="570" y="520"/>
+                            <mxPoint x="520" y="470"/>
+                        </Array>
+                        <mxPoint x="520" y="520" as="sourcePoint"/>
+                        <mxPoint x="570" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-9" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Comenzar con el desarollo del sistema solicitado" vertex="1">
+                    <mxGeometry height="80" width="160" x="50" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-14" edge="1" parent="1" source="fy6NozBCEAWpaL6btzIr-10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fy6NozBCEAWpaL6btzIr-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-15" edge="1" parent="1" source="fy6NozBCEAWpaL6btzIr-10" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="fy6NozBCEAWpaL6btzIr-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conseguir todos los requisitos posteriores de host , servidores, bases de datos, y suscripciones requeridas&amp;nbsp;" vertex="1">
+                    <mxGeometry height="60" width="200" x="30" y="395" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-13" edge="1" parent="1" source="fy6NozBCEAWpaL6btzIr-12" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="fy6NozBCEAWpaL6btzIr-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Publicar o entregar el sistema" vertex="1">
+                    <mxGeometry height="60" width="120" x="70" y="500" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
