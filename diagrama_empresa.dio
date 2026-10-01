@@ -5,10 +5,13 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="fy6NozBCEAWpaL6btzIr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inicio&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-                    <mxGeometry height="60" width="120" x="275" y="10" as="geometry"/>
+                    <mxGeometry height="50" width="120" x="275" y="10" as="geometry"/>
                 </mxCell>
                 <mxCell id="fy6NozBCEAWpaL6btzIr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FIn" vertex="1">
                     <mxGeometry height="60" width="120" x="280" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="fy6NozBCEAWpaL6btzIr-16" edge="1" parent="1" source="fy6NozBCEAWpaL6btzIr-3" style="edgeStyle=none;html=1;" target="fy6NozBCEAWpaL6btzIr-1" value="">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="fy6NozBCEAWpaL6btzIr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conseguir un Cliente o usuario interesado en un desarollo" vertex="1">
                     <mxGeometry height="60" width="230" x="220" y="100" as="geometry"/>
